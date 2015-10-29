@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tutorial.zerberuss
+package fhj.swengb.assignments.tutorial.aschneider
 
 object TutorialAssignment {
   def hello() = "Hello world!"
